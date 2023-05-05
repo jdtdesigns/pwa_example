@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9ca2ffd62ae6aad97ef49ec50c6732f8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.87768bbe05e3af8d331410648e90bb52.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.ad230e48f17f4ce7386f681919f2b0d0.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.275ffa08e6572794a69a5ae8fac73214.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.13e2bedb48604546848f9fce9a286642.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0f4e95723d70ae348deb411680a4a941.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Indexed DB Example - PWA",
+  "short_name": "idb_pwa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Example PWA app using IDB",
+  "background_color": "#ffffff",
+  "theme_color": "#fff"
+}

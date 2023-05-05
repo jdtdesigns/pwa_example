@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  padding: 0 4%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+header .install-btn {
+  align-self: center;
+  display: none;
+}
+
+.name-wrap {
+  margin: 15px 0;
+}
+
+.name-wrap input {
+  border: none;
+  outline-color: #aaa;
+}
+
+.name-wrap input:focus {
+  outline-style: solid;
+  outline-width: 1px;
+}
